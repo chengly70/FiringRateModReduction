@@ -32,7 +32,7 @@ run scptAn_netTr.m first, saves dAn_netEI.mat. To compare with Monte Carlo, run 
 4) Figure 5 in paper with disparate tau values.
 scptAn_testTau.m and scptMC_testTau.m (see files for corresponding .mat files saved)
 
-5) Figure 7 in paper. Relies on method in sub-directory ~/LowOrder_FP/ iterLowO_Ref.m. Run this function as you would run the function iter_method.m, following the structure of the files scptAn_[].m — to compare against a particular instance of a network, use the file scptMC_testTau.m as a guide (load the particular network parameters first).
+5) Figure 7 in paper. Relies on method in sub-directory ~/LowOrder_FP/iterLowO_Ref.m. Run this function as you would run the function iter_method.m, following the structure of the files scptAn_[].m — to compare against a particular instance of a network, use the file scptMC_testTau.m as a guide (load the particular network parameters first).
 
 Figures 4 & 6 are self-explanatory once you understand the program files.
 
