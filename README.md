@@ -2,8 +2,8 @@
 
 This directory contains Matlab program files to implement our reduction method for coupled firing rate neural network models subject to correlated background noise.
 
-Citation: Barreiro & Ly (2017). A Practical Approximation Method for Firing Rate Models of Coupled Neural Networks with Correlated Inputs. Physical Review E xx, xx
-DOI: 
+Citation: Barreiro & Ly (2017). Practical Approximation Method for Firing-rate Models of Coupled Neural Networks with Correlated Inputs. Physical Review E, Vol 96: pp 022413.
+DOI: 10.1103/PhysRevE.96.022413
 
 All implementations of the method uses a standard sigmoidal transfer function (described in the paper), users can augment this to other transfer functions by manually changing our code.
 
